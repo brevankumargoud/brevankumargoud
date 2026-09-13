@@ -8,8 +8,8 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/brevankumargoud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=portfolio\&logoColor=white)](https://brevankumargoud.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]((https://www.linkedin.com/in/revan-kumar-goud-bommagoni-4398a5362/))
 
 </div>
 

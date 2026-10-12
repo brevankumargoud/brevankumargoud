@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Widgets
 
 on:
   schedule:
@@ -17,8 +17,8 @@ jobs:
       - name: Create dist directory
         run: mkdir -p dist
 
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: brevankumargoud
           outputs: |
@@ -33,6 +33,16 @@ jobs:
           options: theme=github-compact&area=true&hide_border=true
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats-action@v1
+        with:
+          user: brevankumargoud
+          local: true
+          days_to_show: 7
+          hide_border: true
+          theme: transparent
+          output_and_foo: dist/streak.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

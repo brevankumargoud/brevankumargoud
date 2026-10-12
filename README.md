@@ -11,7 +11,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://brevankumargoud.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revan-kumar-goud-bommagoni-4398a5362/)
-[![Writeups](https://img.shields.io/badge/Security-Writeups-2F81F7?style=for-the-badge&logo=readthedocs&logoColor=white)](https://brevankumargoud.github.io/writeups.html)
 
 **Offensive Security · AI Security · Cloud · Automation**
 

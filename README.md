@@ -172,8 +172,7 @@ I use security labs, CTF challenges, and vulnerability-reproduction exercises to
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=brevankumargoud&hide_border=true&theme=transparent)](https://git.io/streak-stats)
-
+![GitHub Streak](https://raw.githubusercontent.com/brevankumargoud/brevankumargoud/output/streak.svg)   
 </div>
 
 ---

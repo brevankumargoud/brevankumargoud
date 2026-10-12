@@ -202,8 +202,7 @@ I use security labs, CTF challenges, and vulnerability-reproduction exercises to
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/brevankumargoud/brevankumargoud/output/github-contribution-grid-snake.svg)
-
+![Contribution Snake](https://raw.githubusercontent.com/brevankumargoud/brevankumargoud/output/github-snake.svg)
 </div>
 
 ---

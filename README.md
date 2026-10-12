@@ -192,7 +192,7 @@ I use security labs, CTF challenges, and vulnerability-reproduction exercises to
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=brevankumargoud&theme=flat&no-frame=true&no-bg=true&margin-w=8)](https://github.com/brevankumargoud)
+[![GitHub Trophies](https://trophy.ryglcloud.net/?username=brevankumargoud&theme=flat&no-frame=true&no-bg=true&margin-w=8)](https://github.com/brevankumargoud)   
 
 </div>
 

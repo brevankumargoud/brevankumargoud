@@ -182,21 +182,12 @@ I use security labs, CTF challenges, and vulnerability-reproduction exercises to
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brevankumargoud&theme=github-compact&hide_border=true)](https://github.com/brevankumargoud)
+![GitHub Activity Graph](https://raw.githubusercontent.com/brevankumargoud/brevankumargoud/output/activity-graph.svg)   
 
 </div>
 
 ---
 
-## `> achievements`
-
-<div align="center">
-
-[![GitHub Trophies](https://trophy.ryglcloud.net/?username=brevankumargoud&theme=flat&no-frame=true&no-bg=true&margin-w=8)](https://github.com/brevankumargoud)   
-
-</div>
-
----
 
 ## `> contribution_matrix`
 

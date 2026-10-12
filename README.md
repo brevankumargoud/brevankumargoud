@@ -1,15 +1,15 @@
-<div align="center">
+ <div align="center">
 
-# `brevankumargoud`
+# `Revan Kumar Goud Bommagoni`
 
-### **Engineer • Builder • Learner**
+### Aspiring Red Teamer · Security-Minded Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=I+learn+by+building.;I+like+understanding+systems+from+the+inside+out.;AI+%C2%B7+Security+%C2%B7+Cloud+%C2%B7+Automation;Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve" alt="Typing animation" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://brevankumargoud.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revan-kumar-goud-bommagoni-4398a5362/)
 
-<br/>
+**Offensive Security · AI Security · Cloud · Automation**
 
-[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=portfolio\&logoColor=white)](https://brevankumargoud.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]((https://www.linkedin.com/in/revan-kumar-goud-bommagoni-4398a5362/))
+*Learning Offense to Build Stronger Defense.*
 
 </div>
 
@@ -17,57 +17,58 @@
 
 ## `> whoami`
 
-I'm an engineer who likes to understand **how things work beneath the surface**.
+I'm an undergraduate student focused on **cybersecurity, especially offensive security, red teaming, and security research**.
 
-I learn primarily by building things, testing assumptions, breaking systems, fixing them, and then asking better questions.
+I learn by building, testing assumptions, breaking things in controlled environments, and understanding why they work the way they do.
 
-My interests currently revolve around:
+My interests extend beyond security into AI, cloud infrastructure, automation, and systems engineering. I enjoy exploring how these areas connect and how they can be used to build practical solutions.
 
-**Artificial Intelligence · Cybersecurity · Cloud · Automation · Systems Engineering**
+I also serve as the **Technical Lead of AWS Student Builder Group, RGUKT Ongole**, contributing to technical initiatives and community projects.
 
-I enjoy the space where software becomes more than code:
-
-**architecture → infrastructure → security → deployment → real-world use**
-
-> **I don't want to merely use technology.**
+> I don't want to merely use technology.
 >
-> **I want to understand it well enough to build with it.**
+> I want to understand it well enough to build with it.
 
 ---
 
-## `> how_i_work`
+## `> featured_projects`
 
-```text
-┌──────────────────────────────────────────┐
-│                                          │
-│  Understand the problem                  │
-│              ↓                           │
-│  Question the obvious solution           │
-│              ↓                           │
-│  Design the system                       │
-│              ↓                           │
-│  Build                                   │
-│              ↓                           │
-│  Test                                    │
-│              ↓                           │
-│  Break                                   │
-│              ↓                           │
-│  Understand why                          │
-│              ↓                           │
-│  Improve                                 │
-│              ↓                           │
-│  Repeat                                  │
-│                                          │
-└──────────────────────────────────────────┘
-```
+### 01. AWS SBG LMS
 
-I prefer **depth over collecting buzzwords**.
+**A learning platform for the AWS Student Builder Group at RGUKT Ongole.**
 
-A technology becomes interesting to me when I can take it from:
+The AWS SBG LMS provides students with a dedicated platform to explore courses and access organized learning resources.
 
-`documentation → experiment → prototype → deployment`
+As the Technical Lead for this project, I guided its technical development from requirements and implementation through integration, testing, and production deployment.
 
-and eventually understand what happens when the prototype meets reality.
+**Engineering highlights:**
+- Full-stack application development and integration
+- Relational database and application architecture
+- Authentication and access control
+- Course catalogue and learning-content experience
+- Testing, deployment, and production verification
+
+**Technology:** Next.js · TypeScript · Prisma · PostgreSQL · Auth.js
+
+🌐 **[Explore the live LMS](https://lms.awssbgrgukt.online)**
+
+The source repository is private. This section presents the project and its engineering scope without exposing the codebase or internal implementation details.
+
+### 02. INCH · OSINT and Investigation
+
+An investigation-focused project exploring how information gathering and automation can be brought together into practical workflows.
+
+**Focus:** OSINT · Investigation workflows · Automation
+
+*Project details and links will be added as the public documentation is ready.*
+
+### 03. Security Research and Labs
+
+I use security labs, CTF challenges, and vulnerability-reproduction exercises to understand how applications fail and how those weaknesses can be investigated and addressed.
+
+**Focus:** Web application security · Vulnerability research · Offensive security
+
+*Selected public write-ups and repositories will be linked here as they become available.*
 
 ---
 
@@ -75,57 +76,58 @@ and eventually understand what happens when the prototype meets reality.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Artificial Intelligence
+### 🔐 Offensive Security
 
-Exploring:
+My primary area of interest.
 
-* LLMs
-* Agentic AI
-* Multimodal systems
-* RAG
-* AI infrastructure
-* AI security & governance
+- Web application security
+- Red teaming
+- Vulnerability research
+- Reconnaissance and attack surfaces
+- Authentication and authorization
+- Security testing
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🧠 AI and AI Security
 
-### 🔐 Cybersecurity
+Exploring the intersection of AI and security.
 
-Interested in:
-
-* Application security
-* AI security
-* Secure system design
-* Authentication & authorization
-* Threat thinking
-* Security in real products
+- Large language models
+- Agentic AI
+- AI-assisted security workflows
+- AI security and governance
+- Practical AI integrations
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud and Infrastructure
 
-Learning how systems move from:
+Understanding how applications move beyond local development.
 
-`localhost → server → deployment → production`
-
-with an emphasis on reliability, observability and security.
+- Cloud infrastructure
+- Deployment and production environments
+- Application reliability
+- Infrastructure security
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### ⚙️ Automation and Systems
 
-### ⚙️ Automation
+Building workflows that connect software, APIs, and services.
 
-I like turning repetitive processes into systems.
-
-Especially when software, APIs, AI and infrastructure can work together.
+- Python automation
+- API integrations
+- Workflow automation
+- Backend engineering
+- Systems thinking
 
 </td>
 </tr>
@@ -133,31 +135,35 @@ Especially when software, APIs, AI and infrastructure can work together.
 
 ---
 
-## `> toolbox`
+## `> how_i_work`
 
-<div align="center">
+I prefer understanding a problem before deciding how to solve it.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+```text
+┌───────────────────────────────────┐
+│                                   │
+│  Understand the problem           │
+│              ↓                    │
+│  Question assumptions             │
+│              ↓                    │
+│  Design the approach              │
+│              ↓                    │
+│  Build and experiment             │
+│              ↓                    │
+│  Test the result                  │
+│              ↓                    │
+│  Investigate what breaks          │
+│              ↓                    │
+│  Understand why                   │
+│              ↓                    │
+│  Improve and repeat               │
+│                                   │
+└───────────────────────────────────┘
+```
 
-<br/>
+I prefer **depth over collecting buzzwords**.
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-<br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
-
-</div>
-
-> **The toolbox changes. The engineering mindset doesn't.**
+A technology becomes interesting to me when I can move from documentation to experimentation, build something useful, and understand what happens when it meets real-world conditions.
 
 ---
 
@@ -165,45 +171,39 @@ Especially when software, APIs, AI and infrastructure can work together.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=brevankumargoud&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=brevankumargoud&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brevankumargoud&layout=compact&hide_border=true&theme=transparent" height="170"/>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=brevankumargoud\&hide_border=true\&theme=transparent)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brevankumargoud&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages on GitHub" height="170" />
 
 </div>
+
+*These cards depend on an external service. If the service is unavailable, the rest of the README remains usable.*
 
 ---
 
-## `> activity.log`
+## `> currently_learning`
 
-<div align="center">
+```yaml
+primary:
+  - Offensive Security
+  - Web Application Security
+  - Red Teaming
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brevankumargoud\&theme=github-compact\&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+exploring:
+  - AI Security
+  - Agentic AI
+  - Cloud Infrastructure
+  - Production Engineering
+  - Distributed Systems
 
-</div>
-
----
-
-## `> achievements`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=brevankumargoud\&theme=flat\&no-frame=true\&no-bg=true\&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## `> contribution_matrix`
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/brevankumargoud/brevankumargoud/output/github-contribution-grid-snake.svg)
-
-</div>
+approach:
+  - Read
+  - Experiment
+  - Build
+  - Test
+  - Understand
+  - Improve
+```
 
 ---
 
@@ -224,27 +224,15 @@ All of them move the system forward.
 
 ---
 
-## `> currently_learning`
+## `> writing_and_sharing`
 
-```yaml
-learning:
-  - AI Security
-  - Agentic AI
-  - AI Governance
-  - Cloud Infrastructure
-  - Production Engineering
-  - Cybersecurity
-  - Distributed Systems
+I also write about the engineering challenges and lessons I encounter while building projects.
 
-method:
-  01: Read
-  02: Experiment
-  03: Build
-  04: Deploy
-  05: Break
-  06: Understand
-  07: Improve
-```
+- **[Building the AWS SBG LMS: A Journey of Learning, Frustration, and Figuring Things Out](https://builder.aws.com/content/3KaJoNf0In0E1MqcwHSG2UIoQ5F/building-the-aws-sbg-lms-a-journey-of-learning-frustration-and-figuring-things-out)**  
+  A personal account of the challenges, iterations, and lessons behind the LMS.
+
+- **[Inside the AWS SBG LMS: Building a Learning Platform for Our Community](https://builder.aws.com/content/3KayE5Pvke11s4O8gAxpm7bHoKx/inside-the-aws-sbg-lms-building-a-learning-platform-for-our-community)**  
+  A technical overview of the platform, its features, and the engineering decisions behind it.
 
 ---
 
@@ -252,8 +240,6 @@ method:
 
 ### `while (alive) { learn(); build(); improve(); }`
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=brevankumargoud\&style=flat-square\&color=58A6FF)
+*Understand the system. Challenge assumptions. Keep building.*
 
 </div>
